@@ -44,8 +44,8 @@ function App() {
       {/* Lab - 03 */}
       {/* <EventDemo/>
       <PropsDemo/>
-      <ConditionalRenderingDemo/> */}
-      <PropsUsingCard/>
+      <ConditionalRenderingDemo/> 
+      <PropsUsingCard/> */}
     </>
   )
 }
