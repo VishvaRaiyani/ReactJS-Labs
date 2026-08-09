@@ -5,10 +5,10 @@ import { Component } from "react"
 import FunctionDemo from "./Lab-02-Separate-File-Component/FunctionDemo"
 import ClassDemo from "./Lab-02-Separate-File-Component/ClassDemo"
 
-import EventDemo from "./Lab-03-Props/EventHandlingDemo"
-import PropsDemo from "./Lab-03-Props/PropsDemo"
-import ConditionalRenderingDemo from "./Lab-03-Props/ConditionalRenderingDemo"
-import PropsUsingCard from "./Lab-03-Props/PropsUsingCard"
+import EventDemo from "./Lab-03-Props-EventHandling-ConditionalRendering/EventHandlingDemo"
+import PropsDemo from "./Lab-03-Props-EventHandling-ConditionalRendering/PropsDemo"
+import ConditionalRenderingDemo from "./Lab-03-Props-EventHandling-ConditionalRendering/ConditionalRenderingDemo"
+import PropsUsingCard from "./Lab-03-Props-EventHandling-ConditionalRendering/PropsUsingCard"
 
 // WAP to create a simple class component in ReactJS.
 class DemoClass extends Component{
