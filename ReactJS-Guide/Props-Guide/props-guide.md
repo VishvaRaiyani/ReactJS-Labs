@@ -27,9 +27,7 @@ This chapter explains how to pass, destructure, and validate props, configure de
 9. [Best Practices](#best-practices)
 10. [Tips](#tips)
 11. [Summary](#summary)
-12. [Practice Exercises](#practice-exercises)
-13. [Interview Questions](#interview-questions)
-14. [Additional Resources](#additional-resources)
+12. [Additional Resources](#additional-resources)
 
 ---
 
