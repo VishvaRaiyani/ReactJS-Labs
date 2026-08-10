@@ -57,7 +57,6 @@ export default function EventDemo() {
       >
         Hover Me
       </div>
-
       <br />
 
       {/* Method-04 onChange */}
